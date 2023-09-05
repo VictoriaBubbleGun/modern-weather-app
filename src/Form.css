@@ -1,0 +1,37 @@
+body {
+  background-color: lightblue;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.city {
+  text-transform: capitalize;
+}
+
+img {
+  width: 300px;
+}
+
+.dots-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1,
+a {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
